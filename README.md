@@ -11,7 +11,7 @@ Topics Covered
 
 Available Notes
 - Python Notes (PDF)
-- 
+
 Purpose
 To improve my technical skills and develop my knowledge in Data Analytics.
 Thank You for Visiting My Repository!
